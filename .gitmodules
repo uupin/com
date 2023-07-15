@@ -1,0 +1,3 @@
+[submodule "ibbb"]
+	path = ibbb
+	url = https://uupin@github.com/uupin/ibbb
